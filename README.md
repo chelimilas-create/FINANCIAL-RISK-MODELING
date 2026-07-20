@@ -17,7 +17,7 @@ Compare average credit amounts across housing types.
 
 Dataset: https://drive.google.com/file/d/1tye7UVurQt39Jk_Swj4myTuz1mj4Wf3m/view?usp=sharing
 
-JUPYTER NOTEBOOK:https://drive.google.com/file/d/1tye7UVurQt39Jk_Swj4myTuz1mj4Wf3m/view?usp=sharing
+JUPYTER NOTEBOOK:https://jupyter.org/try-jupyter/lab/index.html?path=notebooks%2Ffinancialriskmodel.ipynb
 
 Records: 1000
 
